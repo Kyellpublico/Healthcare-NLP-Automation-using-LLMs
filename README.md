@@ -21,7 +21,7 @@ Manual data extraction is time-consuming and error-prone. This solution demonstr
 - Pandas
 - OpenAI API (GPT-4o-mini)
 - Prompt Engineering
-- 
+
 ## Project Workflow
 1. Load anonymized medical transcription data
 2. Use LLM function calling to extract:
