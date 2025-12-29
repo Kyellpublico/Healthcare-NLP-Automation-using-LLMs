@@ -1,0 +1,24 @@
+Age,Recommended Treatment/Procedure,Medical Specialty,ICD Code
+23,Try Zyrtec instead of Allegra and use loratadine. Samples of Nasonex two sprays in each nostril given for three weeks.,Allergy / Immunology,"- Z71.89
+- R05.1
+- R09.81
+- J30.9
+- J30.2
+- J47.9"
+41,Operative fixation for Achilles tendon rupture.,Orthopedic,"-  tendon repair or reconstruction: 24340
+-  operative treatment of Achilles tendon rupture: 27650
+-  injection of anesthetic for localized procedures: 64410"
+30,Laparoscopic antecolic antegastric Roux-en-Y gastric bypass with EEA anastomosis,Bariatrics,"- ICD-10-CM: Z98.84
+- ICD-10-PCS: 0DB64YZ
+- ICD-10-PCS: 0DB64XZ
+- ICD-10-PCS: 0DB34YZ
+- ICD-10-PCS: 0DB34XZ"
+50,"Neck exploration; tracheostomy; urgent flexible bronchoscopy via tracheostomy site; removal of foreign body, tracheal metallic stent material; dilation distal trachea; placement of #8 Shiley single cannula tracheostomy tube.",Cardiovascular / Pulmonary,"- 0CTB0ZZ
+- 0B102F4
+- 0B199DZ
+- 0B180DZ
+- 0B692NZ
+- 0B199D4"
+66,Self-catheterization in the event of urinary retention; prescription for 6 months of Flomax and Proscar.,Urology,"- N39.3
+- Z79.2
+- Z79.3"
